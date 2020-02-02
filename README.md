@@ -34,6 +34,7 @@ Sass was developed by Natalie Weizenbaum : https://github.com/nex3 <br />
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Sass.git
+$ cd Sass/
 $ git remote -v
 $ git status
 ```
