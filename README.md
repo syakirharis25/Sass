@@ -39,7 +39,7 @@ Sass was developed by Natalie Weizenbaum : https://github.com/nex3 <br />
 
 <a name="livesass"></a>
 ## 3. Live Sass Compiler in Visual Studio Code.
-To use Live Sass Compiler in Visual Studio Code, press **[Ctrl]** + **[Shift]** + **[X]** on your keyboard, then type `Live Sass Compiler` on the appeared text box under the EXTENSIONS: MARKETPLACE text on the left of the Visual Studio Code interface, then hit **[Enter]** on your key board and then hit the `Install` green box on the right side of the appeared `Live Sass Compiler` below it. Hit **[Ctrl]** + **[,]** on your keyboard to enter the Settings menu, type `sass` on the `Search settings` text box, under `Extensions`, click `Live Sass Compiler Configuration`, under `Live Sass Compile > Settings: Formats`, click on the `Edit in settings.json`, add the following codes into `settings.json` file.
+To use Live Sass Compiler in Visual Studio Code, press **[ Ctrl ]** + **[ Shift ]** + **[ X ]** on your keyboard, then type `Live Sass Compiler` on the appeared text box under the EXTENSIONS: MARKETPLACE text on the left of the Visual Studio Code interface, then hit **[ Enter ]** on your key board and then hit the `Install` green box on the right side of the appeared `Live Sass Compiler` below it. Hit **[ Ctrl ]** + **[ , ]** on your keyboard to enter the Settings menu, type `sass` on the `Search settings` text box, under `Extensions`, click `Live Sass Compiler Configuration`, under `Live Sass Compile > Settings: Formats`, click on the `Edit in settings.json`, add the following codes into `settings.json` file.
 
 ```
 "liveSassCompile.settings.formats": [
