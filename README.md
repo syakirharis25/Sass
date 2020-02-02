@@ -27,6 +27,8 @@ SassScript provides the following mechanisms: variables, nesting, mixins, and se
 Official Sass website : https://sass-lang.com <br />
 Official Sass documentation : https://sass-lang.com/documentation <br />
 
+Font Awesome : https://fontawesome.com <br />
+
 **_Sass Text Editor_** <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
 
