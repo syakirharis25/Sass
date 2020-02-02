@@ -4,7 +4,8 @@ My works related to Syntactically awesome style sheets (Sass) style sheet langua
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
+3. [Live Sass Compiler in Visual Studio Code.](#livesass)
+4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -26,11 +27,27 @@ SassScript provides the following mechanisms: variables, nesting, mixins, and se
 Official Sass website : https://sass-lang.com <br />
 Official Sass documentation : https://sass-lang.com/documentation <br />
 
+Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
+
 Sass was designed by Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com <br />
 Sass was developed by Natalie Weizenbaum : https://github.com/nex3 <br />
 
+<a name="livesass"></a>
+## 3. Live Sass Compiler in Visual Studio Code.
+To use Live Sass Compiler in Visual Studio Code, press **[Ctrl]** + **[Shift]** + **[X]** on your keyboard, then type `Live Sass Compiler` on the appeared text box under the EXTENSIONS: MARKETPLACE text on the left of the Visual Studio Code interface, then hit **[Enter]** on your key board and then hit the `Install` green box on the right side of the appeared `Live Sass Compiler` below it. Hit **[Ctrl]** + **[,]** on your keyboard to enter the Settings menu, type `sass` on the `Search settings` text box, under `Extensions`, click `Live Sass Compiler Configuration`, under `Live Sass Compile > Settings: Formats`, click on the `Edit in settings.json`, add the following codes into `settings.json` file.
+
+```
+"liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/dist/css"
+        }
+    ],
+```
+
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Sass.git
