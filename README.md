@@ -1,5 +1,5 @@
 # Sass
-My works related to Syntactically awesome style sheets (Sass) style sheet language.
+My works related to Syntactically awesome style sheets (Sass) language.
 
 ## Table of Contents
 1. [Introduction.](#introduction)
