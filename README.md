@@ -44,6 +44,7 @@ Special Functions by Sass : https://sass-lang.com/documentation/syntax/special-f
 **_Sass Articles_** <br />
 Difference between .sass and .scss : https://responsivedesign.is/articles/difference-between-sass-and-scss <br />
 The Sass Ampersand by CSS-TRICKS : https://css-tricks.com/the-sass-ampersand <br />
+rem() is a Sass mixin that converts pixel values to rem values for whatever property is passed to it. : https://gist.github.com/bitmanic/1134548 <br />
 
 **_Sass Developers_** <br />
 Sass was designed by Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com <br />
