@@ -36,6 +36,7 @@ Interpolation by Sass : https://sass-lang.com/documentation/interpolation <br />
 @import by Sass : https://sass-lang.com/documentation/at-rules/import <br />
 Functions by Sass : https://sass-lang.com/documentation/values/functions <br />
 @mixin and @include by Sass : https://sass-lang.com/documentation/at-rules/mixin <br />
+@extend by Sass : https://sass-lang.com/documentation/at-rules/extend <br />
 
 **_Sass Articles_** <br />
 Difference between .sass and .scss : https://responsivedesign.is/articles/difference-between-sass-and-scss <br />
