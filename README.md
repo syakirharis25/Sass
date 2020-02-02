@@ -28,6 +28,7 @@ Official Sass website : https://sass-lang.com <br />
 Official Sass documentation : https://sass-lang.com/documentation <br />
 
 Font Awesome : https://fontawesome.com <br />
+Stack Overflow question and answer official website : https://stackoverflow.com <br />
 
 **_Sass Text Editor_** <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
@@ -48,6 +49,9 @@ rem() is a Sass mixin that converts pixel values to rem values for whatever prop
 EASY-PEASY REM CONVERSION WITH SASS by Stubbornella : http://www.stubbornella.org/content/2013/07/01/easy-peasy-rem-conversion-with-sass <br />
 How to use & (Ampersand) to simplify your Sass by Sparkbox : https://seesparkbox.com/foundry/how_to_use_ampersands_to_simplifiy_your_sass <br />
 Fun with Viewport Units by Miriam Suzanne : https://css-tricks.com/fun-viewport-units <br />
+
+**_Sass questions and answers by Stack Overflow_** <br />
+:after and :before pseudo-element selectors in Sass [duplicate] by Stack Overflow : https://stackoverflow.com/questions/10750563/after-and-before-pseudo-element-selectors-in-sass <br />
 
 **_Sass Developers_** <br />
 Sass was designed by Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com <br />
