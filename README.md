@@ -27,13 +27,13 @@ SassScript provides the following mechanisms: variables, nesting, mixins, and se
 Official Sass website : https://sass-lang.com <br />
 Official Sass documentation : https://sass-lang.com/documentation <br />
 
-**_Sass Text Editor_**
+**_Sass Text Editor_** <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
 
-**_Sass Articles_**
+**_Sass Articles_** <br />
 Difference between .sass and .scss : https://responsivedesign.is/articles/difference-between-sass-and-scss <br />
 
-**_Sass Developers_**
+**_Sass Developers_** <br />
 Sass was designed by Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com <br />
 Sass was developed by Natalie Weizenbaum : https://github.com/nex3 <br />
 
