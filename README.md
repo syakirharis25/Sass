@@ -35,6 +35,7 @@ sass:map : https://sass-lang.com/documentation/modules/map <br />
 
 **_Sass Articles_** <br />
 Difference between .sass and .scss : https://responsivedesign.is/articles/difference-between-sass-and-scss <br />
+The Sass Ampersand by CSS-TRICKS : https://css-tricks.com/the-sass-ampersand <br />
 
 **_Sass Developers_** <br />
 Sass was designed by Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com <br />
