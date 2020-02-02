@@ -30,6 +30,9 @@ Official Sass documentation : https://sass-lang.com/documentation <br />
 **_Sass Text Editor_** <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
 
+**_Sass Documentation_** <br />
+sass:map : https://sass-lang.com/documentation/modules/map <br />
+
 **_Sass Articles_** <br />
 Difference between .sass and .scss : https://responsivedesign.is/articles/difference-between-sass-and-scss <br />
 
