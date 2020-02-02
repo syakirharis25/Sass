@@ -47,10 +47,12 @@ The Sass Ampersand by CSS-TRICKS : https://css-tricks.com/the-sass-ampersand <br
 rem() is a Sass mixin that converts pixel values to rem values for whatever property is passed to it. : https://gist.github.com/bitmanic/1134548 <br />
 EASY-PEASY REM CONVERSION WITH SASS by Stubbornella : http://www.stubbornella.org/content/2013/07/01/easy-peasy-rem-conversion-with-sass <br />
 How to use & (Ampersand) to simplify your Sass by Sparkbox : https://seesparkbox.com/foundry/how_to_use_ampersands_to_simplifiy_your_sass <br />
+Fun with Viewport Units by Miriam Suzanne : https://css-tricks.com/fun-viewport-units <br />
 
 **_Sass Developers_** <br />
 Sass was designed by Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com <br />
 Sass was developed by Natalie Weizenbaum : https://github.com/nex3 <br />
+Miriam Suzanne : https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne<br />
 
 <a name="livesass"></a>
 ## 3. Live Sass Compiler in Visual Studio Code.
