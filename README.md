@@ -8,7 +8,7 @@ My works related to Syntactically awesome style sheets (Sass) style sheet langua
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="Caml-1.gif" height="50"> 
+<img src="sass.svg" height="50"> 
 Sass (short for syntactically awesome style sheets) is a style sheet language initially designed by Hampton Catlin and developed by Natalie Weizenbaum. After its initial versions, Weizenbaum and Chris Eppstein have continued to extend Sass with SassScript, a simple scripting language used in Sass files. <br /> <br />
 
 Sass is a stylesheet language that’s compiled to CSS. It allows you to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized and makes it easy to share design within and across projects.  <br />
