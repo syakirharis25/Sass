@@ -93,7 +93,9 @@ Your site is ready to be published at [address link of the website]
 
 Then go the working Sass directory to see the result of the working Sass files.
 
-The shown website link will show this README.md file : https://syakirharis25.github.io/Sass/
+The shown website link will show the contents of README.md file : https://syakirharis25.github.io/Sass/
+
+The dist link will show the content of the working Sass files on GitHub : https://syakirharis25.github.io/Sass/code/dist/
 
 <a name="github"></a>
 ## 5. GitHub notes.
