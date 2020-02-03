@@ -5,7 +5,8 @@ My works related to Syntactically awesome style sheets (Sass) language.
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Live Sass Compiler in Visual Studio Code.](#livesass)
-4. [GitHub notes.](#github)
+4. [Hosting and view the Sass files live in GitHub.](#livegithub)
+5. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -75,8 +76,25 @@ To use Live Sass Compiler in Visual Studio Code, press **[ Ctrl ]** + **[ Shift 
     ],
 ```
 
+<a name="livegithub"></a>
+## 4. Hosting and view the Sass files live in GitHub.
+[ STEP 1 ]
+From the GitHub menu, click on the `Settings` with gear icon on its left.
+
+[ STEP 2 ]
+Scroll down until you can see `GitHub Pages`, under the `Sources` section, from the drop down menu, click on it and select `master branch`. Then wait for GitHub to refresh the page until you can see the word `GitHub Pages source saved.`
+
+[ STEP 3 ]
+Scroll down until you see `GitHub Pages`, then you can see it is updated with the message
+
+```
+Your site is ready to be published at [name of the website]
+```
+
+Then go the working Sass directory to see the result of the working Sass files.
+
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Sass.git
