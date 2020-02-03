@@ -50,6 +50,7 @@ EASY-PEASY REM CONVERSION WITH SASS by Stubbornella : http://www.stubbornella.or
 How to use & (Ampersand) to simplify your Sass by Sparkbox : https://seesparkbox.com/foundry/how_to_use_ampersands_to_simplifiy_your_sass <br />
 Fun with Viewport Units by Miriam Suzanne : https://css-tricks.com/fun-viewport-units <br />
 Using lighten() and darken() in SASS by https://falkus.co : https://falkus.co/2017/05/using-lighten-and-darken-in-sass/ <br />
+SASS: @content directive is a wonderful thing by Krasimir : https://krasimirtsonev.com/blog/article/SASS-content-directive-is-a-wonderful-thing <br />
 
 **_Sass questions and answers by Stack Overflow_** <br />
 :after and :before pseudo-element selectors in Sass [duplicate] by Stack Overflow : https://stackoverflow.com/questions/10750563/after-and-before-pseudo-element-selectors-in-sass <br />
