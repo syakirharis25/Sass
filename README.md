@@ -88,10 +88,12 @@ Scroll down until you can see `GitHub Pages`, under the `Sources` section, from 
 Scroll down until you see `GitHub Pages`, then you can see it is updated with the message
 
 ```
-Your site is ready to be published at [name of the website]
+Your site is ready to be published at [address link of the website]
 ```
 
 Then go the working Sass directory to see the result of the working Sass files.
+
+The shown website link will show this README.md file : https://syakirharis25.github.io/Sass/
 
 <a name="github"></a>
 ## 5. GitHub notes.
