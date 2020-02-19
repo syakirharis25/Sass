@@ -7,6 +7,7 @@ My works related to Syntactically awesome style sheets (Sass) language.
 3. [Live Sass Compiler in Visual Studio Code.](#livesass)
 4. [Hosting and view the Sass files live in GitHub.](#livegithub)
 5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -106,3 +107,21 @@ $ cd Sass/
 $ git remote -v
 $ git status
 ```
+
+<a name="calculation"></a>
+## 6. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+CSS                              2             66              2            497
+Sass                             8             66              0            440
+HTML                             4             34              0            373
+Markdown                         2             24              0             86
+JavaScript                       1              5              0             22
+SVG                              1              0              0              1
+-------------------------------------------------------------------------------
+SUM:                            18            195              2           1419
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
