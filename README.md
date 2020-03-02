@@ -6,8 +6,9 @@ My works related to Syntactically awesome style sheets (Sass) language.
 2. [Official references websites.](#references)
 3. [Live Sass Compiler in Visual Studio Code.](#livesass)
 4. [Hosting and view the Sass files live in GitHub.](#livegithub)
-5. [GitHub notes.](#github)
-6. [GitHub repository calculation.](#calculation)
+5. [Sass developers.](#developers)
+6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -57,12 +58,6 @@ SASS: @content directive is a wonderful thing by Krasimir Tsonev : https://krasi
 **_Sass questions and answers by Stack Overflow_** <br />
 :after and :before pseudo-element selectors in Sass [duplicate] by Stack Overflow : https://stackoverflow.com/questions/10750563/after-and-before-pseudo-element-selectors-in-sass <br />
 
-**_Sass Developers_** <br />
-Sass was designed by Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com <br />
-Sass was developed by Natalie Weizenbaum : https://github.com/nex3 <br />
-Miriam Suzanne : https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne <br />
-Krasimir Tsonev : https://github.com/krasimir <br />
-
 <a name="livesass"></a>
 ## 3. Live Sass Compiler in Visual Studio Code.
 To use Live Sass Compiler in Visual Studio Code, press **[ Ctrl ]** + **[ Shift ]** + **[ X ]** on your keyboard, then type `Live Sass Compiler` on the appeared text box under the EXTENSIONS: MARKETPLACE text on the left of the Visual Studio Code interface, then hit **[ Enter ]** on your key board and then hit the `Install` green box on the right side of the appeared `Live Sass Compiler` below it. Hit **[ Ctrl ]** + **[ , ]** on your keyboard to enter the Settings menu, type `sass` on the `Search settings` text box, under `Extensions`, click `Live Sass Compiler Configuration`, under `Live Sass Compile > Settings: Formats`, click on the `Edit in settings.json`, add the following codes into `settings.json` file.
@@ -98,8 +93,15 @@ The shown website link will show the contents of README.md file : https://syakir
 
 The dist link will show the content of the working Sass files on GitHub : https://syakirharis25.github.io/Sass/code/dist/
 
+<a name="developers"></a>
+## 5. Sass developers.
+Sass was designed by Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com <br />
+Sass was developed by Natalie Weizenbaum : https://github.com/nex3 <br />
+Krasimir Tsonev : https://github.com/krasimir <br />
+Miriam Suzanne : https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne <br />
+
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Sass.git
@@ -109,7 +111,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 7. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
